@@ -4,7 +4,7 @@
 <h1 align="center">Calculadora de Média de Notas 🎓</h1>
 
 <h1 align="center">
-    <a href="https://github.com/LeonardoAbril/CalculadoraMedia">🔗 Clique aqui para acessar o repositório</a>
+    <a href="https://github.com/LeoAbril98/TarefaCalculoMedia">🔗 Clique aqui para acessar o repositório</a>
 </h1>
 
 <p align="center">🚀 Um simples programa em Java para calcular a média de quatro notas e determinar a aprovação ou reprovação de um aluno.</p>
@@ -15,7 +15,6 @@ Tabela de conteúdos
  <a href="#-objetivo">Objetivo</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-features">Features</a> • 
- <a href="https://github.com/LeonardoAbril/CalculadoraMedia/blob/main/LICENSE">Licença</a> • 
  <a href="#-autor">Autor</a>
 </p>
 
